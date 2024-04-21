@@ -8,6 +8,9 @@
 <ul align="center">
 <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
-  <div Allgn="center">
- <img src="https://raw.githubusercontent.com/LuksTeixeira/LuksTeixeira/output/snake.svg" alt="Snake animation" />
+  
+
+ 
+
+###
   </div>
