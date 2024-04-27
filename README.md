@@ -6,7 +6,7 @@
 <!--titulo--> 
 <div id="user-content-toc">
 <ul align="Left">
-<summary><h1 style="display: inline-block">Hello World 🌎</h1></summary>
+<summary><h1 style="display: inline-block">Hello World 🌎</h1> <img src="Word.gif" width="25px"> </summary>
 </div>
 
   <p align="center">
