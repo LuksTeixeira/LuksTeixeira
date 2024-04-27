@@ -9,7 +9,7 @@
 <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
   
-![Snake animation](https://github.com/LuksTeixeira/LuksTeixeira/blob/output/github-contribution-grid-snake.svg)
+
  
 
 ###
