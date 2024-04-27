@@ -21,7 +21,7 @@
   
 <!--Imagem-->
   <p align="center">
-  <img align="center" src="Img.gif" alt="Imagem">
+  <img align="center" src="img/Img.gif" alt="Imagem">
 </p>
 
 ###
@@ -37,7 +37,7 @@
 
 
 <p>
-<img height="100" src="Time.gif"> 
+<img height="100" src="img/Time.gif"> 
 </a>
 </p>
 
@@ -54,7 +54,9 @@
 
 ###
 
-<h1 style="display: inline-block">Skills</h1> <img src="" width="25px">
+<div align="left">
+   <h1>Skills <img src="img/fogo.gif" width="25px">
+   </h1>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -70,5 +72,7 @@
 
 ###
 
----
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 
