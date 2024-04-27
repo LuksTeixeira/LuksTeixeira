@@ -55,10 +55,9 @@
 ###
 
 <div align="left">
-   <h1>Skills <img src="img/fogo.gif" width="25px">
-   </h1>
+   <h1>Skills <img src="img/fogo.gif" width="25px"></h1>
 
-<div align="center">
+<palign="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
